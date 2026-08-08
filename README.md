@@ -60,17 +60,6 @@ Urdu.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Wandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandana-vasho&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wandana-vasho&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### Currently
 
 🔭 Backend AI Engineering Intern @ FlyRank — Portkey gateway integration,
