@@ -151,4 +151,6 @@ the link below once it's up.
 
 *"I catch what looks right but isn't."*
 
+<img src="neural-footer.svg" width="100%"/>
+
 </div>
