@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:06B6D4,100:8B5CF6&height=220&section=header&text=Wandana%20Vasho&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Backend%20Engineer&descAlignY=58&descSize=22" width="100%"/>
+<img src="neural-banner.svg" width="100%"/>
 
 <a href="https://www.linkedin.com/in/wandana256">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -140,16 +140,15 @@ guardrails.
 
 📚 FlyRank's AI Fluency track, alongside the Backend track.
 
-🎨 Rebuilding my portfolio site with a new visual identity — dark,
-cyan/violet, built to hold up under the same scrutiny as the work it
-shows.
+🎨 Rebuilding my portfolio site with a full 3D/interactive Neural Synth
+identity — canvas particle field, terminal boot sequence, animated
+project cards. A README can only fake motion; the real thing lives at
+the link below once it's up.
 
 <br/>
 
 <div align="center">
 
 *"I catch what looks right but isn't."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:09090B&height=100&section=footer"/>
 
 </div>
