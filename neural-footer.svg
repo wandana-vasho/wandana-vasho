@@ -1,0 +1,76 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#18181B"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="lineGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="glowFooter">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .fnode { animation: fpulse 3s ease-in-out infinite; }
+      .fnode2 { animation: fpulse 3s ease-in-out infinite; animation-delay: 0.6s; }
+      .fnode3 { animation: fpulse 3s ease-in-out infinite; animation-delay: 1.2s; }
+      .fnode4 { animation: fpulse 3s ease-in-out infinite; animation-delay: 1.8s; }
+      @keyframes fpulse {
+        0%, 100% { opacity: 0.35; r: 3; }
+        50% { opacity: 1; r: 6; }
+      }
+      .fflow {
+        stroke-dasharray: 6 5;
+        animation: fflowmove 1.8s linear infinite;
+      }
+      @keyframes fflowmove {
+        to { stroke-dashoffset: -22; }
+      }
+      .footertext {
+        font-family: 'Courier New', monospace;
+        fill: #ffffff;
+        opacity: 0.9;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgFooter)" opacity="0.15"/>
+
+  <g stroke="url(#lineGradFooter)" stroke-width="1" opacity="0.6">
+    <line class="fflow" x1="80" y1="70" x2="220" y2="40"/>
+    <line class="fflow" x1="80" y1="70" x2="220" y2="100"/>
+    <line class="fflow" x1="220" y1="40" x2="360" y2="70"/>
+    <line class="fflow" x1="220" y1="100" x2="360" y2="70"/>
+    <line class="fflow" x1="840" y1="70" x2="980" y2="40"/>
+    <line class="fflow" x1="840" y1="70" x2="980" y2="100"/>
+    <line class="fflow" x1="980" y1="40" x2="1120" y2="70"/>
+    <line class="fflow" x1="980" y1="100" x2="1120" y2="70"/>
+  </g>
+
+  <g fill="#06B6D4" filter="url(#glowFooter)">
+    <circle class="fnode" cx="80" cy="70" r="4"/>
+    <circle class="fnode3" cx="360" cy="70" r="4"/>
+    <circle class="fnode2" cx="1120" cy="70" r="4"/>
+  </g>
+  <g fill="#8B5CF6" filter="url(#glowFooter)">
+    <circle class="fnode2" cx="220" cy="40" r="4"/>
+    <circle class="fnode4" cx="220" cy="100" r="4"/>
+    <circle class="fnode" cx="840" cy="70" r="4"/>
+    <circle class="fnode3" cx="980" cy="40" r="4"/>
+    <circle class="fnode4" cx="980" cy="100" r="4"/>
+  </g>
+
+  <text x="600" y="78" text-anchor="middle" class="footertext" font-size="18" letter-spacing="1">
+    thanks for scrolling this far — now go check the code
+  </text>
+
+  <rect x="0" y="138" width="1200" height="2" fill="#06B6D4" opacity="0.5">
+    <animate attributeName="x" values="-1200;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
