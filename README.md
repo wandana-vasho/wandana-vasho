@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:8B5CF6&height=200&section=header&text=Wandana%20Vasho&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%2F%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:06B6D4,100:8B5CF6&height=220&section=header&text=Wandana%20Vasho&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Backend%20Engineer&descAlignY=58&descSize=22" width="100%"/>
 
 <a href="https://www.linkedin.com/in/wandana256">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/Currently-Backend%20AI%20Engineering%20Intern%20@%20FlyRank-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scholarship-Sindh%20Talent%20Hunt%20Program-8B5CF6?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=I+build+backend+systems...;...that+survive+someone+actually+checking+the+math.;My+baseline+scored+0.994.+That+should+have+worried+me.;So+I+found+out+why." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=I+build+backend+systems...;...that+survive+someone+actually+checking+the+math.;My+baseline+scored+0.994.+That+should+have+worried+me.;So+I+found+out+why+%E2%80%94+and+shipped+the+honest+result." alt="Typing SVG" />
 
 </div>
 
@@ -41,7 +42,7 @@ and Urdu.
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,docker,react,supabase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,docker,nextjs,react,ts,js,supabase,tailwind,git,github,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -53,21 +54,44 @@ and Urdu.
 <td width="50%" valign="top">
 
 ### 🔐 [Embeddable Widget & Lead-Capture Platform](https://github.com/wandana-vasho/flyrank-capstone-widget-platform)
-Full multi-tenant SaaS backend: hardened public API (CORS, rate
-limiting, honeypot spam filter), a real provider-fallback chain, safe
-non-blocking side effects.
+Multi-tenant SaaS backend capstone: hardened public API (CORS, rate
+limiting, honeypot spam filter), a real geo-provider fallback chain,
+safe non-blocking side effects.
 
 `FastAPI` `SQLAlchemy` `Postgres` · **18/18 tests passing**
 
 </td>
 <td width="50%" valign="top">
 
+### 🧩 [AI Decision Flow](https://github.com/wandana-vasho/ai-decision-flow)
+Visual AI workflow builder: React Flow canvas for designing decision
+trees, Inngest running execution as real durable background steps —
+each node is an AI call that returns YES/NO and branches the graph
+live.
+
+`Next.js` `React Flow` `Inngest` `OpenAI SDK`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ⏱️ [Your First Background Job](https://github.com/wandana-vasho/background-job)
 The production pattern for anything slow: accept-fast /
-background-worker / status-endpoint, with real idempotency and backoff.
-Caught and fixed a live race-condition bug during testing.
+background-worker / status-endpoint, with real idempotency and
+exponential backoff. Caught and fixed a live race-condition bug during
+testing.
 
 `FastAPI` `SQLAlchemy` · **8/8 tests passing**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 [Auth API](https://github.com/wandana-vasho/auth-api)
+JWT auth tested against missing, invalid, *and tampered* tokens — not
+just the happy path.
+
+`FastAPI` `Supabase`
 
 </td>
 </tr>
@@ -83,11 +107,11 @@ fetch → parse → extract → clean → structure pipeline.
 </td>
 <td width="50%" valign="top">
 
-### 🔑 [Auth API](https://github.com/wandana-vasho/auth-api)
-JWT auth tested against missing, invalid, *and tampered* tokens — not
-just the happy path.
+### 🎯 SmartOps
+Enterprise multi-agent RAG platform with adversarial-protected SQL
+guardrails.
 
-`FastAPI` `Supabase`
+`LlamaIndex` `LangGraph` `Qdrant` `Ragas`
 
 </td>
 </tr>
@@ -99,7 +123,6 @@ just the happy path.
 
 | Project | What it does |
 |---|---|
-| **SmartOps** | Enterprise multi-agent RAG platform — LlamaIndex, LangGraph, Qdrant |
 | **FraudShield AI** | Weighted ensemble fraud detection — F1 0.98, ROC-AUC 0.9992 |
 | **FinInsight Pro** | SaaS-level AI financial analytics platform |
 | **VisionForge AI** | Gender and age estimation demo |
@@ -117,11 +140,16 @@ guardrails.
 
 📚 FlyRank's AI Fluency track, alongside the Backend track.
 
+🎨 Rebuilding my portfolio site with a new visual identity — dark,
+cyan/violet, built to hold up under the same scrutiny as the work it
+shows.
+
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer"/>
 
 *"I catch what looks right but isn't."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:09090B&height=100&section=footer"/>
 
 </div>
