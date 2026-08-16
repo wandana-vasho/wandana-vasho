@@ -157,7 +157,7 @@ guardrails.
 📚 FlyRank's AI Fluency track, alongside the Backend track.
 
 🎨 Portfolio site is live — Next.js, deployed on Vercel, full case
-studies with real numbers. [wandana-vasho.vercel.app](https://wandana-vasho.vercel.app/)
+studies with real numbers.
 
 <br/>
 
