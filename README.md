@@ -24,6 +24,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="180"/>
 </a>
 
+<br/><br/>
+
+<img src="projects-ticker.svg" width="100%"/>
+
 </div>
 
 <br/>
@@ -55,18 +59,6 @@ and Urdu.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,docker,nextjs,react,ts,js,supabase,tailwind,git,github,vscode&theme=dark" />
-</div>
-
-<br/>
-
-## 📊 Git Log / Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wandana-vasho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=06B6D4&icon_color=8B5CF6&text_color=E4E4E7&count_private=true" width="70%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandana-vasho&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=8B5CF6&text_color=E4E4E7" width="45%"/>
 </div>
 
 <br/>
