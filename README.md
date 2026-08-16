@@ -62,8 +62,7 @@ and Urdu.
 ## 📊 Git Log / Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wandana-vasho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=06B6D4&icon_color=8B5CF6&text_color=E4E4E7&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wandana-vasho&theme=tokyonight&hide_border=true&background=09090B&stroke=06B6D4&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=wandana-vasho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=06B6D4&icon_color=8B5CF6&text_color=E4E4E7&count_private=true" width="70%" />
 </div>
 
 <div align="center">
