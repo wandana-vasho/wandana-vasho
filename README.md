@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img src="projects-ticker.svg" width="100%"/>
+<img src="projects-drop-cards.svg" width="100%"/>
 
 </div>
 
